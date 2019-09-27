@@ -1,6 +1,6 @@
 {
   "name": "azavista-zebraprinter",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Zebra Printer Cordova Plugin for iOS and Android",
   "cordova": {
     "id": "azavista-zebraprinter",
@@ -18,5 +18,9 @@
   "license": "MIT",
   "dependencies": {
     "gulp": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azavista/cordova-zebra-printer.git"
   }
 }

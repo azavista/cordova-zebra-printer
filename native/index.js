@@ -106,9 +106,9 @@ var ZebraPrinter = (function (_super) {
     ZebraPrinter = __decorate([
         Plugin({
             pluginName: 'ZebraPrinter',
-            plugin: 'ca-cleversolutions-zebraprinter',
+            plugin: 'azavista-zebraprinter',
             pluginRef: 'cordova.plugins.zebraPrinter',
-            repo: 'git@github.com:cleversolutions/cordova-zebra-printer.git',
+            repo: 'git@github.com:azavista/cordova-zebra-printer.git',
             install: '',
             installVariables: [],
             platforms: ['Android', 'iOS'] // Array of platforms supported, example: ['Android', 'iOS']
